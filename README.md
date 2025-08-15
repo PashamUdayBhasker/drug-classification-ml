@@ -93,12 +93,5 @@ scikit-learn
 * **Classification Report** with precision, recall, F1-score
 * **Feature Importance** chart (if applicable)
 
----
-
-## 🛠 Common Issues & Fixes
-
-* **Python Not Found** → Install Python from [python.org](https://www.python.org) & check “Add to PATH” during setup
-* **Module Not Found** → Ensure you run `pip install -r requirements.txt` in the correct environment
-* **CSV Not Found** → Place `drug200.csv` in the project folder or update the `CSV_PATH` in the script
 
 
