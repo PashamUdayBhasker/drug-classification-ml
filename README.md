@@ -1,6 +1,4 @@
-Here’s your **final styled README** in one continuous block, clean and professional for GitHub:
 
----
 
 # 💊 Drug Classification — Machine Learning Project
 
@@ -103,28 +101,4 @@ scikit-learn
 * **Module Not Found** → Ensure you run `pip install -r requirements.txt` in the correct environment
 * **CSV Not Found** → Place `drug200.csv` in the project folder or update the `CSV_PATH` in the script
 
----
 
-## 🚀 Future Improvements
-
-* Add **hyperparameter tuning** with `GridSearchCV`
-* Include **SVM, KNN, Gradient Boosting, XGBoost**
-* Deploy with **Flask API** or **Streamlit Web App**
-* Implement **unit tests** for preprocessing steps
-
----
-
-## 📜 License
-
-MIT License — free to use, modify, and distribute with attribution.
-
----
-
-## ⭐ Contributing
-
-Pull requests are welcome!
-Fork the repo → create a branch → commit changes → open PR.
-
----
-
-Do you want me to also **design the GitHub repository with badges, emojis, and screenshots** so it looks more premium and attractive? That will make it stand out.
